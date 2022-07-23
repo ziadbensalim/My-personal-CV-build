@@ -38,6 +38,7 @@ td b {
 }
 td {
   font-family: sans-serif;
+  padding: 5px 0;
 }
 table {
   background-color: #d7d7d7;
