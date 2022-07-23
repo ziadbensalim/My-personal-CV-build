@@ -17,6 +17,7 @@ thead {
   text-decoration: underline;
   margin: 5px 0;
   height: 24px;
+  margin-bottom: 10px;
 }
 ul {
   font-family: sans-serif;
@@ -45,4 +46,9 @@ table {
 }
 .table-1 {
   margin-top: 0px;
+}
+img {
+  display: inline-block;
+  width: 150px;
+  height: auto;
 }
