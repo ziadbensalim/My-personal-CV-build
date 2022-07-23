@@ -16,7 +16,7 @@ thead {
   font-family: sans-serif;
   text-decoration: underline;
   margin: 5px 0;
-  padding: 0 0;
+  height: 24px;
 }
 ul {
   font-family: sans-serif;
@@ -37,4 +37,7 @@ td b {
 }
 td {
   font-family: sans-serif;
+}
+table {
+  padding-right: auto;
 }
